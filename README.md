@@ -1,0 +1,1 @@
+joystick devre şeması + kod
